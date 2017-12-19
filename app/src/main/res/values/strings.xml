@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sherehe</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="events">
+        <item>Social Event</item>
+        <item>Academic Event</item>
+        <item>Sports Event</item>
+        <item>Corporate Event</item>
+    </string-array>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="txtmobile_hint">Phone Number</string>
+    <string name="txtuname_hint">UserName</string>
+    <string name="txtemail_hint">Email</string>
+    <string name="txtpassword_hint">Password</string>
+    <string name="txtregister_hint">Register</string>
+    <string name="txtlname_hint">Last Name</string>
+    <string name="txtfname_hint">First Name</string>
+    <string name="title_activity_welcome">WELCOME</string>
+    <string name="title_activity_social">Social</string>
+    <string name="title_activity_coperate">Coperate</string>
+    <string name="title_activity_sports">Sports</string>
+    <string name="title_activity_academic">Academic</string>
+    <string name="title_activity_logout">Logout</string>
+    <string name="title_activity_home_page">HomePage</string>
+
+
+</resources>
